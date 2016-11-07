@@ -1,0 +1,12 @@
+ru:
+  js:
+    composer:
+      imgflip_button_title: "Открыть генератор мема"
+    imgflip:
+      composer_button_text: "Открыть генератор мема"
+      modal_title: "Pick ImgFlip Meme"
+      top-text: "Заголовок"
+      top-text-placeholder: "Напишите текст для заголовка мема"
+      bottom-text: "Текс внизу"
+      bottom-text-placeholder: "Введите нижний текст для мема"
+      insert: "Вставить мем"
